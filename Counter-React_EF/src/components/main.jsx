@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import "/Users/user/React-Counter-EF/Counter-React_EF/src/styles/index.css"
+import "/Users/user/Documents/GitHub/React-Counter-EF/Counter-React_EF/src/styles/index.css"
 import App from "./App";
 
 createRoot(document.getElementById("root")).render(
